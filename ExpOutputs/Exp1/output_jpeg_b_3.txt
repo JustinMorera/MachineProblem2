@@ -1,0 +1,7 @@
+COMMAND
+./sim smith 3 traces/jpeg_trace.txt 
+OUTPUT
+number of predictions:		2000000
+number of mispredictions:	582482
+misprediction rate:		29.12%
+FINAL COUNTER CONTENT:		6

@@ -1,0 +1,7 @@
+COMMAND
+./sim smith 5 traces/gcc_trace.txt 
+OUTPUT
+number of predictions:		2000000
+number of mispredictions:	826654
+misprediction rate:		41.33%
+FINAL COUNTER CONTENT:		6
